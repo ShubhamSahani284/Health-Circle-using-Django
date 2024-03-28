@@ -16,7 +16,7 @@
 ### Specific offer details (Is it that obvious?):
 ![smartshop-specific-offer](https://github.com/ShubhamSahani284/Health-Circle-using-Django/commit/d9889b82b55d9d3f46ade86671f3968c6c9fe4ff#diff-f14e332e620f48ee066f9c70ccc46b0b98079e090573ec8666456705eac31342)
 
-### We can check our current add, edit them:s
+### We can check our current add, edit them:
 ![smartshop-user](https://github.com/ShubhamSahani284/Health-Circle-using-Django/commit/d9889b82b55d9d3f46ade86671f3968c6c9fe4ff#diff-9bbf3afa8ae88cdbed0119fdd3dfcb0bca5ea437ea437b88d2f1a99d392a9b4c)
 
 ## Cart view. Quantity is changeable:
